@@ -18,7 +18,7 @@ tags = ["week6"]
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V3ziIaZFrm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Agreggate Demand 
+## Agreggate Demand
 
 ~~~
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ExEiKWHA1nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

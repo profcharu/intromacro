@@ -331,10 +331,16 @@ a.sidebar-nav-item:focus {
   .sidebar-nav:hover > .sidebar-nav-item {
     display: block;
   }
+  .sidebar-nav {
+    margin-bottom: 0;
+  }
   #menu-icon {
     display: inline-block;
     margin-right: 10px;
     margin-top: 5px;
+  }
+  .content {
+    padding-top: 0;
   }
   iframe {
     max-width: 100%;

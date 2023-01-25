@@ -18,7 +18,7 @@ tags = ["week3"]
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7hvmN-fRmPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Modifying the Circular Flow to Look Closer at Production 
+## Modifying the Circular Flow to Look Closer at Production
 
 ~~~
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KWse1NOy2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -33,7 +33,7 @@ tags = ["week3"]
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vnKnbkFr8zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Firm Investment Plans Explained! 
+## Firm Investment Plans Explained!
 
 ~~~
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d_t80aZODNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
