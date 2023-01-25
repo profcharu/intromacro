@@ -1,20 +1,4 @@
 /*
- *                        ___
- *                       /\_ \
- *  _____     ___     ___\//\ \      __
- * /\ '__`\  / __`\  / __`\\ \ \   /'__`\
- * \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
- *  \ \ ,__/\ \____/\ \____//\____\ \____\
- *   \ \ \/  \/___/  \/___/ \/____/\/____/
- *    \ \_\
- *     \/_/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/poole.
- */
-
-
-/*
  * Contents
  *
  * Body resets
@@ -211,22 +195,6 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
- *  __                  __
- * /\ \                /\ \
- * \ \ \___   __  __   \_\ \     __
- *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
- *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
- *    \ \_\ \_\/`____ \ \___,_\ \____\
- *     \/_/\/_/`/___/> \/__,_ /\/____/
- *                /\___/
- *                \/__/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/hyde.
- */
-
-
-/*
  * Contents
  *
  * Global resets
@@ -352,10 +320,25 @@ a.sidebar-nav-item:focus {
 }
 
 
+#menu-icon {
+  display: none;
+}
+
 @media screen and (max-width: 768px) {
-    iframe {
-        max-width: 100%;
-        width: auto;
-        height: auto;
-    }
+  .sidebar-nav-item {
+    display: none;
+  }
+  .sidebar-nav:hover > .sidebar-nav-item {
+    display: block;
+  }
+  #menu-icon {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+  iframe {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+  }
 }
