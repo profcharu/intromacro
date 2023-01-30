@@ -12,6 +12,8 @@ tags = ["week1"]
 
 \toc
 
+A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVhIS4ZIGUGRcqa-Xg7eiSBD).
+
 ## Welcome to Macroeconomics
 
 ~~~

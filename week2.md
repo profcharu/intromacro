@@ -12,6 +12,8 @@ tags = ["week2"]
 
 \toc
 
+A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuViB1X3ra52aou4NtNBC3IUp).
+
 ## What Exactly Is GDP?
 
 ~~~

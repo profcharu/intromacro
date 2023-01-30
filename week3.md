@@ -12,6 +12,8 @@ tags = ["week3"]
 
 \toc
 
+A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVi8FWrNFMIB1tTiC3ESGyN8).
+
 ## An Introduction to Keynesian Economics
 
 ~~~

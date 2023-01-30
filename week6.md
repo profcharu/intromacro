@@ -12,6 +12,8 @@ tags = ["week6"]
 
 \toc
 
+A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVjeenK52GjVhWCSme4Z1Uiu).
+
 ## Agreggate Supply
 
 ~~~

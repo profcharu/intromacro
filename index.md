@@ -5,3 +5,4 @@
 
 \tableofcontents
 
+On this page you can find lecture videos for the course.

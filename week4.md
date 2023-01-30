@@ -12,6 +12,8 @@ tags = ["week4"]
 
 \toc
 
+A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVgwt0uRJZPXh5JgBxjPk5mZ).
+
 ## Introduction to Keynesian Multipliers
 
 ~~~
