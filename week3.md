@@ -23,7 +23,7 @@ A playlist for this week's lecture videos is available [here](https://www.youtub
 ## Modifying the Circular Flow to Look Closer at Production
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KWse1NOy2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zsm4Pz1jjd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
 ## Taking a Closer Look at the Household & The Consumption Function
