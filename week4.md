@@ -1,69 +1,45 @@
 +++
 title = "Week 4"
 hascode = true
-date = Date(2023, 1, 24)
+date = Date(2024, 1, 2)
 rss = "Week 4"
 
 tags = ["week4"]
 +++
 
 
-# Week 4
+# Week 4: Components of Expenditure
 
 \toc
 
-A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVgwt0uRJZPXh5JgBxjPk5mZ).
+A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVhgkhQ3vCw7bS5wIPClYRtB).
 
-## Introduction to Keynesian Multipliers
-
-~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s8WaPVZril0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-~~~
-
-## Keynesian Policy: The Government's Role in the Circular Flow
+## An Introduction to Keynesian Economics
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L1Jgsd18yNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7hvmN-fRmPA?si=m_eS4Bv93za1GL3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Government Revenue and Expenditure Explained!
+## Modifying the Circular Flow to Look Closer at Production
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ywXb2bKFK6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zsm4Pz1jjd0?si=HygjMh7JR16LJ6bm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Integrating the Government into the Keynesian Equilibrium
+## Taking a Closer Look at the Household & The Consumption Function: Part 1
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ifRD-q5xWvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QGeEl8A74tA?si=5sKkSa1a_XibzggX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## The Government Expenditure Multiplier
+## Taking a Closer Look at the Household & The Consumption Function: Part 2
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OhZIa-SISlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vnKnbkFr8zQ?si=718z_NEQFWCVXN7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Tax Cuts Explained!
+## Firm Investment Plans Explained!
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6hBMFhEdEu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-~~~
-
-## The Balanced Budget Multiplier
-
-~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qzzluCZHc_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-~~~
-
-## Counter Cyclical Policy
-
-~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zl5aPifKZHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-~~~
-
-## Bonus: Applying Macroeconomics to Imports and Exports!
-
-~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EQpGZhd_VpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d_t80aZODNM?si=KyM5TmczodhB4bLL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~

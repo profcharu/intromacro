@@ -1,51 +1,45 @@
 +++
 title = "Week 3"
 hascode = true
-date = Date(2023, 1, 24)
+date = Date(2024, 1, 2)
 rss = "Week 3"
 
 tags = ["week3"]
 +++
 
 
-# Week 3
+# Week 3: Definition and Measurement in the Macroeconomy
 
 \toc
 
-A playlist for this week's lecture videos is available [here](https://www.youtube.com/playlist?list=PLBl3tyVmUuVi8FWrNFMIB1tTiC3ESGyN8).
+A playlist for this week's lecture videos is available [here](https://youtube.com/playlist?list=PLBl3tyVmUuVhBjpLkbTF7mz7El5nfI0R8).
 
-## An Introduction to Keynesian Economics
-
-~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7hvmN-fRmPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-~~~
-
-## Modifying the Circular Flow to Look Closer at Production
+## What Exactly Is GDP?
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zsm4Pz1jjd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xkw06sandKE?si=thgND772QiC0xKd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Taking a Closer Look at the Household & The Consumption Function
+## The Uses and Limitations of GDP
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QGeEl8A74tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-~~~
-~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vnKnbkFr8zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uK_Xiv2kWVw?si=4PMfsMcW-r--L8Wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## Firm Investment Plans Explained!
+## Measuring the GDP
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d_t80aZODNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uJJmqmZoAGs?si=z5v42Ga5yrYxathd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 
-## The Keynesian Equilibrium
+## Measuring Price Levels
 
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K8PyniIkHCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BNVsqd6hqiE?si=sq0Qoyt4ZMFTjYzu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
+
+## Unemployment
+
 ~~~
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QuzuMwDVyG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YimHwV00s6I?si=k9s1uv9qp7X5OzVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~

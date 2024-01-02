@@ -1,4 +1,4 @@
-@def title = "Introductory macroeconomics"
+@def title = "Introductory Macroeconomics"
 @def tags = ["syntax", "code"]
 
 # Welcome!
